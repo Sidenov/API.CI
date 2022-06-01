@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8i92tw8o1x5twhst?svg=true)](https://ci.appveyor.com/project/Sidenov/api-ci)
